@@ -1,0 +1,2 @@
+# Add this for icloud support
+pyicloud
