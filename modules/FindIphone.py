@@ -12,7 +12,7 @@ NEGATIVE = ["NO", "NEGATIVE", "NAH", "NA", "NOPE"]
 
 # iCloud Settings
 ICLOUD_USERNAME = "EMAIL@GMAIL.com"
-ICLOUD_PASSWORD = "PASSWORD
+ICLOUD_PASSWORD = "PASSWORD"
 
 def handle(text, mic, profile):
     """
